@@ -1,7 +1,7 @@
 import { io } from "socket.io-client";
 
 export const socket = io(
-  "https://skribbl-clone-backend-ufhr.vercel.app/",
+  "https://skribblclone-backend-4lfh.onrender.com/",
     {
     autoConnect: true,
     reconnection: true,
